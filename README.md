@@ -1,2 +1,1 @@
-# Projeto-Sorts-Arvores
-Projeto desenvolvido em C usando algoritmos de ordenação e Arvores
+### Credits: Alex Galhardo and Ian Brant.
